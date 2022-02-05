@@ -10,41 +10,857 @@ uid: 64c8295e-7e7b-86a4-deea-ff6eb9495eb4
 
 Note: If a reading is marked with an \*, you are responsible for preparing the paper prior to class.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I. Themes: Theory Causal Tests, Evidence, and a First Application**{{< /td-colspan >}} |||
-| 1 |  {{< br >}}{{< br >}} **Minimum wages and employment: Theory says?** {{< br >}}{{< br >}} *   What is 14.03 / 14.003 all about?{{< br >}}*   Application: Minimum wages and employment - Theory and evidence{{< br >}}    *   Minimum wage and employment in the standard competitive model{{< br >}}    *   Minimum wage and employment in monopsony model{{< br >}}    *   How can we empirically distinguish these cases? {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapters 10.1 and 10.2: Monopoly. {{< br >}}{{< br >}} \[Mastering\] Chapter 5: Differences-in-Differences. {{< br >}}{{< br >}} {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611350) Krugman, Paul. _Development, Geography, and Economic Theory_. MIT Press, 1997. ISBN: 9780262611350. \[Preview with [Google Books](http://books.google.com/books?id=Pm_oAg_1UxIC&pg=PAfrontcover)\] {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} **Testing theory: The fundamental problem of causal evidence** {{< br >}}{{< br >}} *   The fundamental problem of causal inference (FPCI){{< br >}}    *   The Rubin Causal Model (RCM){{< br >}}    *   Experiments and the RCM{{< br >}}    *   Quasi-experiments in economics{{< br >}}*   The method of Differences-in-Differences (DD) {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Card, David, and Alan B. Krueger. "[Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](http://www.jstor.org/stable/2118030)." _The American Economic Review_ 84, no. 4 (1994): 772–93. {{< br >}}{{< br >}} \[Mastering\] Chapter 1: Randomized Trials. {{< br >}}{{< br >}} Dugger, Celia W. "[Wage Laws Squeeze South Africa's Poor](http://www.nytimes.com/2010/09/27/world/africa/27safrica.html)." _The New York Times_, September 26, 2010. {{< br >}}{{< br >}} Dube, Arindrajit. "[The Minimum We Can Do](https://opinionator.blogs.nytimes.com/2013/11/30/the-minimum-we-can-do/)." _The New York Times_, November 30, 2013. {{< br >}}{{< br >}} Neumark, David. "Who Really Gets the Minimum Wage." _The Wall Street Journal_, July 6, 2014. {{< br >}}{{< br >}} {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} Holland, Paul W. "[Statistics and Causal Inference](http://www.jstor.org/stable/2289064)." _Journal of the American Statistical Association_ 81, no. 396 (1986): 945–60. {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} **Minimum wages and employment: Evidence** {{< br >}}{{< br >}} *   Card and Krueger {{< br >}}{{< br >}} *   Findings and interpretations {{< br >}}{{< br >}} *   Overview of 14.03 / 14.003: Substance and themes{{< br >}}    *   What is economic theory for?{{< br >}}    *   Causality: How do we know it, how we test it?{{< br >}}    *   What do the data say? {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] "Mathematical Appendix." {{< br >}}{{< br >}} [Math tools for 14.03 / 14.003 (PDF)]({{< baseurl >}}/resources/mit14_03f16_lec3mathtools) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part II. The Foundation of Everything: Consumer Preference, Choice, Optimization, and Demand**{{< /td-colspan >}} |||
-| 4 |  {{< br >}}{{< br >}} **Introducing consumer theory: The foundation of microeconomics** {{< br >}}{{< br >}} *   The axioms of consumer theory{{< br >}}*   Existence of a utility function{{< br >}}*   Properties of utility functions{{< br >}}*   Cardinality versus ordinality{{< br >}}*   Monotone transformations {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapter 3: Preferences. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} **Consumer sovereignty: The Carte Blanche principle** {{< br >}}{{< br >}} *   Utility maximization and constrained optimization{{< br >}}*   The indirect utility f'n{{< br >}}*   Expenditure minimization and the expenditure function{{< br >}}*   Relationship between expenditure and indirect utility f'ns{{< br >}}*   Applications of consumer theory{{< br >}}    *   Lump-sum vs. in-kind transfers{{< br >}}    *   Prince changes and consumer surplus {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Waldfogel, Joel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Deadweight Loss of Christmas." (PDF)](http://blog.bearing-consulting.com/wp-content/uploads/2012/12/Waldfogel.-.Deadweight.Loss_.of_.Christmas.pdf) _The American Economic Review_ 83, no. 5 (1983): 1328–36. {{< br >}}{{< br >}} Thompson, Derek. "[If Economists Wrote Christmas Cards](https://www.theatlantic.com/business/archive/2013/12/if-economists-wrote-christmas-cards/282493/)." _The Atlantic_, December 2013, 1–4. {{< br >}}{{< br >}} {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} Blattman, Chrisopther, Nathan Fiala, and Sebastian Martinez. "[Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda](http://dx.doi.org/10.1093/qje/qjt057)." _The Quarterly Journal of Economics_ 129, no. 2 (2014): 697–752. {{< br >}}{{< br >}} Haushofer, Johannes, and Jeremy Shapiro. "[The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](http://dx.doi.org/10.1093/qje/qjw025)." _The Quarterly Journal of Economics_ 131, no. 4 (2016): 1973–2042. {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} **From preferences to demand curves** {{< br >}}{{< br >}} *   Where demand curves come from{{< br >}}*   Uncompensated ('Marshallian') demand{{< br >}}*   Compensated ('Hicksian') demand{{< br >}}*   Relationship between indirect utility f'n, expenditure f'n, and demand f'ns {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapter 4: Individual Demands. {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} **Income effects, substitution effects, and the design of anti-poverty programs** {{< br >}}{{< br >}} *   Normal, Inferior, and Giffen goods{{< br >}}*   The Supplemental Nutrition Assistance Program (SNAP, AKA 'Food Stamps'): Improving choices by constraining them?{{< br >}}*   Incentivizing work: Labor supply and the Earned Income Tax Credit {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapter 5.1: Consumer Comparative Statics: Price and Income Consumption Curves. {{< br >}}{{< br >}} Williamson, Kevin D. "[The White Ghetto](http://www.nationalreview.com/article/367903/white-ghetto-kevin-d-williamson)." _National Review_, December 2013, 1–10. {{< br >}}{{< br >}} \*Eissa, Nada, and Jeffrey B. Liebman. "[Labor Supply Response to the Earned Income Tax Credit](https://doi.org/10.2307/2946689 )." _The Quarterly Journal of Economics_ 111, no. 2 (1996): 605–37. {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} **Income, substitution, and subsistence** {{< br >}}{{< br >}} *   Connecting compensated and uncompensated demand curves: The Slutsky equation{{< br >}}*   Testing the theory: Rice and noodle subsidies in China {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapter 5.3: Consumer Comparative Statics: Decomposing Price Effects. {{< br >}}{{< br >}} \*Jensen, Robert, and Nolan Miller. "[Giffen Behavior and Subsistence Consumption](https://www.aeaweb.org/articles?id=10.1257/aer.98.4.1553)." _American Economic Review_ 98, no. 4 (2008): 1553–77. {{< br >}}{{< br >}}  |
-| 9 | Exam 1 | No readings |
-| {{< td-colspan 3 >}}**Part III. From Consumer Demand to Market Demand**{{< /td-colspan >}} |||
-| 10 |  {{< br >}}{{< br >}} **Applied competitive analysis: The U.S. sugar program** {{< br >}}{{< br >}} *   Aggregating individual to market demands{{< br >}}*   Producer and consumer surplus in competitive equilibrium{{< br >}}*   Distinguishing deadweight losses from transfers{{< br >}}*   Application: The U.S. Sugar Program {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Scherer, Fredric M. "The U.S. Sugar Program." Harvard Kennedy School, Case 1128.0, 1992. {{< br >}}{{< br >}} Editorial. "[America's Sugar Daddies](http://www.nytimes.com/2003/11/29/opinion/america-s-sugar-daddies.html)." _The New York Times,_ November 29, 2003. {{< br >}}{{< br >}} Malkin, Elizabeth. "[In Mexico, Sugar vs. U.S. Corn Syrup](http://www.nytimes.com/2004/06/09/business/in-mexico-sugar-vs-us-corn-syrup.html?_r=0)." _The New York Times_, June 9, 2004. {{< br >}}{{< br >}} American Sugar Alliance. "[Trade Talks in Works Could Devastate U.S. Sugar Industry](http://www.sweetbeet.com/growernet/News_Events/Articles/Older%20Articles/2003/102103_a.htm)." October 21, 2003. {{< br >}}{{< br >}} Driessche, Ray Van. "Sugar is Not Expensive." _USA Today_, May 23, 2000. {{< br >}}{{< br >}}  |
-| 11 |  {{< br >}}{{< br >}} **Applied competitive analysis: The market for real estate brokers** {{< br >}}{{< br >}} Applied Competitive Analysis: A Second Application {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Hsieh, Chang-Tai, and Enrico Moretti. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Can Free Be Inefficient? Fixed Commissions and Social Waste in the Real Estate Industry." (PDF)](http://www.nber.org/papers/w9208.pdf) _Journal of Political Economy_ 111, no. 5 (2003): 1076–122. (NBER Working Paper no. 9208) {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part IV. Putting Markets Together: General Equilibrium, Exchange, and International Trade**{{< /td-colspan >}} |||
-| 12 |  {{< br >}}{{< br >}} **Putting markets together: The Edgeworth box** {{< br >}}{{< br >}} *   General Equilibrium in a Pure Exchange Economy: The Edgeworth box{{< br >}}    *   Contract curves{{< br >}}    *   Gains from trade between consumers{{< br >}}    *   The fundamental welfare theorems {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapter 6: Exchange Economies. {{< br >}}{{< br >}}  |
-| 13 |  {{< br >}}{{< br >}} **The gains from market integration: "The Digital Provide"** {{< br >}}{{< br >}} The principle of arbitage {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Jensen, Robert. "[The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector](https://academic.oup.com/qje/article-abstract/122/3/879/1879540/The-Digital-Provide-Information-Technology-Market?redirectedFrom=fulltext)." _The Quarterly Journal of Economics_ 122, no. 3 (2007): 879–924. {{< br >}}{{< br >}}  |
-| 14 |  {{< br >}}{{< br >}} **International trade and comparative advantage** {{< br >}}{{< br >}} *   Why do countries gain from trade?{{< br >}}*   The principle of comparative advantage{{< br >}}*   Where does comparative advantage come from?{{< br >}}*   Example: The RA problem {{< br >}}{{< br >}}  | {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} Krugman, Paul. "[The Accidental Theorist](http://www.slate.com/articles/business/the_dismal_science/1997/01/the_accidental_theorist.html)." _Slate_, January 1997. {{< br >}}{{< br >}} Kristof, Nicholas D. "[Let Them Sweat](http://www.nytimes.com/2002/06/25/opinion/let-them-sweat.html)." _The New York Times_, June 25, 2002. (Section A) {{< br >}}{{< br >}}  |
-| 15 |  {{< br >}}{{< br >}} **Does trade raise national income?** {{< br >}}{{< br >}} *   How do we even test this question?{{< br >}}*   The method of Instrumental Variables (IV) \[also known as Two Stage Least Squares, 2SLS\] {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Mastering\] Chapter 3: Instrumental Variables. {{< br >}}{{< br >}} \*Feyrer, James. "[Trade and Income: Exploiting Time Series in Geography](http://www.nber.org/papers/w14910)." _NBER_ Working Paper No. 14910, 2009. {{< br >}}{{< br >}}  |
-| 16 |  {{< br >}}{{< br >}} **The free trade dilemma** {{< br >}}{{< br >}} *   Why trade is not Pareto-improving{{< br >}}*   Redistributive effects of trade: Evidence {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Autor, David, David Dorn, and Gordon H. Hanson. "[The China Syndrome: Local Labor Market Effects of Import Competition in the United States](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121)." _American Economic Review_ 103, no. 6 (2013): 2121–68. {{< br >}}{{< br >}} {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} Autor, David. "[International Trade and U.S. Worker Welfare: Understanding the Costs and Benefits](http://equitablegrowth.org/labor-markets/international-trade-and-u-s-worker-welfare-understanding-the-costs-and-benefits/)." _Washington Center for Equitable Growth_, October 31, 2016. {{< br >}}{{< br >}} Autor, David, David Dorn, and Gordon H. Hanson. "[The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade](http://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080315-015041)." _Annual Review of Economics_ 8 (2016): 205–40. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part V. Markets Are Not Perfect: Externalities**{{< /td-colspan >}} |||
-| 17 |  {{< br >}}{{< br >}} **Externalities: Definition, consequences, and remedies** {{< br >}}{{< br >}} *   Guest lecture: Colin Gray or Christina Patterson, Graduate students at MIT’s Department of Economics{{< br >}}*   Externalities: Definition, consequences, and remedies{{< br >}}*   The problem of social cost: The Coase Theorem {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapter 14: Externalities. {{< br >}}{{< br >}} Bergstrom, Theodore. "Lecture 5-Externalities." _UC Santa Barbara_, March 2002. {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} **Internalizing externalities: Barbed wire fencing** {{< br >}}{{< br >}} Enforcement of property rights: The case of barbed wire fencing {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Hornbeck, Richard. "[Barbed Wire: Property Rights and Agricultural Development](https://doi.org/10.1162/qjec.2010.125.2.767 )." _The Quarterly Journal of Economics_ 125, no. 2 (2010): 767–810. {{< br >}}{{< br >}}  |
-| 19 |  {{< br >}}{{< br >}} **Prediction is difficult, especially about the future: Choice under uncertainty** {{< br >}}{{< br >}} *   Risky bundles: Expected values, variance{{< br >}}*   The Von Neuman Morgenstern Expected Utility Model{{< br >}}*   Risk averse, risk neutral, and risk seeking preferences {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapters 11.1, 11.2, and 11.3: Expected Utility, Attitudes Towards Risk, Stochastic Dominance. {{< br >}}{{< br >}}  |
-| 20 | Exam 2 | No readings |
-| {{< td-colspan 3 >}}**Part VI. Choice Under Uncertainty: Risk Preference, the Value of Safety, and the Market for Risk**{{< /td-colspan >}} |||
-| 21 |  {{< br >}}{{< br >}} **Risk preference, the value of time, and the value of statistical life** {{< br >}}{{< br >}} Using revealed preference to estimate the implicit value of statistical life {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Ashenfelter, Orley, and Michael Greenstone. "[Using Mandated Speed Limits to Measure the Value of a Statistical Life](http://www.jstor.org/stable/10.1086/379932)." _Journal of Political Economy_ 112, no. S1 (2004): S226–7. {{< br >}}{{< br >}} Newman, Thomas P., Brian D. Johnston, and David C. Grossman. "[Effects and Costs of Requiring Child-Restraint Systems for Young Children Traveling on Commercial Airplanes](https://doi.org/doi:10.1001/archpedi.157.10.969)." _Archives of Pediatric Adolescent Medicine_ 157, no. 10 (2003): 969–74. {{< br >}}{{< br >}} {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} Banzhaf, H. Spencer. "[Retrospectives: The Cold-War Origins of the Value of Statistical Life](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.213)." _Journal of Economic Perspectives_ 28, no. 4 (2014): 213–26. {{< br >}}{{< br >}}  |
-| 22 |  {{< br >}}{{< br >}} **There's a market for risk? How insurance works** {{< br >}}{{< br >}} *   Risk pooling{{< br >}}*   Risk spreading{{< br >}}*   Risk transfer {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Banerjee\] Chapter 11.4: Pareto Efficient Risk Sharing. {{< br >}}{{< br >}}  |
-| 23 |  {{< br >}}{{< br >}} **Moral hazard in the housing market: Subprime lending** {{< br >}}{{< br >}} *   The Regression Discontinuity method{{< br >}}*   Application: Moral hazard, Securitization and Subprime Lending {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \[Mastering\] Chapter 4: Regression Discontinuity Designs. {{< br >}}{{< br >}} \*Keys, Benjamin J., Tanmoy Mukkerjee, et al. "[Did Securitization Lead to Lax Screening? Evidence from Subprime Loans](https://doi.org/10.1162/qjec.2010.125.1.307 )." _The Quarterly Journal of Economics_ 125, no. 1 (2010): 307–62. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**Part VII. Markets are Not Perfect: TMI or NEMI?**{{< /td-colspan >}} |||
-| 24 |  {{< br >}}{{< br >}} **Imperfect information: Signaling in markets** {{< br >}}{{< br >}} *   Why is information different?{{< br >}}*   Signaling in markets{{< br >}}*   The notion of equilibrium in strategic interactions {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Spence, Michael. "[Job Market Signaling](http://www.jstor.org/stable/1882010)." _The Quarterly Journal of Economics_ 87, no. 3 (1973): 355–74. {{< br >}}{{< br >}} \[Banerjee\] Chapter 12 and Chapter 15: Game Theory (especially section 12.3 on Nash Equilibrium), Asymmetric Information. {{< br >}}{{< br >}}  |
-| 25 |  {{< br >}}{{< br >}} Why do educated people earn more? {{< br >}}{{< br >}} *   Signaling vs. human capital {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Tyler, John H., Richard J. Murnane, and John B. Willett. "[Estimating the Labor Market Signaling Value of the GED](https://academic.oup.com/qje/article-abstract/115/2/431/1840448/Estimating-the-Labor-Market-Signaling-Value-of-the?redirectedFrom=fulltext)." _The Quarterly Journal of Economics_ 115, no. 2 (2000): 431–68. {{< br >}}{{< br >}} \[Mastering\] Chapter 6: The Wages of Schooling. {{< br >}}{{< br >}}  |
-| 26 |  {{< br >}}{{< br >}} **Mandating a pooling equilibrium: "Ban the Box" legislation** {{< br >}}{{< br >}} *   Statistical discrimination: Definition and logic{{< br >}}*   Statistical discrimination and "Ban the Box" {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} \*Agan, Amanda, and Sonja Starr. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ban the Box, Criminal Records, and Statistical Discrimination: A Field Experiment." (PDF)](https://law.yale.edu/sites/default/files/area/workshop/leo/leo16_starr.pdf) _University of Michigan Law and Economics Research Paper_, August 24, 2016. {{< br >}}{{< br >}} {{< h 3 >}}Recommended Reading{{< /h >}} {{< br >}}{{< br >}} Autor, David H., and David Scarborough. "[Does Job Testing Harm Minority Workers? Evidence from Retail Establishments](https://academic.oup.com/qje/article-lookup/doi/10.1162/qjec.2008.123.1.219)." _The Quarterly Journal of Economics_ 123, no. 1 (2008): 219-277. {{< br >}}{{< br >}} Doleac, Jennifer L., and Benjamin Hansen. "[Does 'Ban the Box' Help or Hurt Low-Skilled Workers? Statistical Discrimination and Employment Outcomes When Criminal Histories are Hidden](http://www.nber.org/papers/w22469)." _NBER_ Working Paper No. 22469, 2016. {{< br >}}{{< br >}} Bartik, Alexander W., and Scott Nelson. "[Credit Reports as Résumés: The Incidence of Pre-Employment Credit Screening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759560)." _MIT Department of Economics Graduate Student Research Paper 16–01_, March 2016. {{< br >}}{{< br >}}  |
-| 27 |  {{< br >}}{{< br >}} **Adverse selection and the Lemons Problem** {{< br >}}{{< br >}} *   The Lemons problem{{< br >}}*   Market failure in insurance markets: Theory, data, and evidence {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Akerlof, George A. "[The Market for "Lemons": Quality Uncertainty and the Market Mechanism](http://www.jstor.org/stable/1879431)." _The Quarterly Journal of Economics_ 84, no. 3 (1970): 488–500. {{< br >}}{{< br >}} \*Einav, Liran, and Amy Finkelstein. "[Selection in Insurance Markets: Theory and Empirics in Pictures](https://doi.org/10.1257/jep.25.1.115)." _Journal of Economic Perspectives_ 25, no. 1 (2011): 115–38. {{< br >}}{{< br >}} Cutler, David, and Sarah Reber. "[Paying for Health Insurance: The Trade-Off between Competition and Adverse Selection](https://doi.org/10.1162/003355398555649)." _The Quarterly Journal of Economics_ 113, no. 2 (1998): 433–66. {{< br >}}{{< br >}}  |
-| 28 |  {{< br >}}{{< br >}} **Health insurance in practice: Why it works, why it matters** {{< br >}}{{< br >}} *   Adverse and advantageous selection{{< br >}}*   Does health insurance affect health? {{< br >}}{{< br >}}  | {{< h 3 >}}Required Reading{{< /h >}} {{< br >}}{{< br >}} Finkelstein, Amy, and Kathleen McGarry. "[Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market](https://www.aeaweb.org/articles?id=10.1257/aer.96.4.938)." _American Economic Review_ 96, no. 4 (2006): 938–58. {{< br >}}{{< br >}} \*Card, David E., Carlos Dobkin, et al. "[Does Medicare Save Lives?](https://academic.oup.com/qje/article/124/2/597/1905082/Does-Medicare-Save-Lives)" _The Quarterly Journal of Economics_ 124, no. 2 (2009): 597–636. {{< br >}}{{< br >}}  |
-| &nbsp; | Exam 3 (during exam period) | No readings
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I. Themes: Theory Causal Tests, Evidence, and a First Application**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Minimum wages and employment: Theory says?**
+
+*   What is 14.03 / 14.003 all about?
+*   Application: Minimum wages and employment - Theory and evidence
+    *   Minimum wage and employment in the standard competitive model
+    *   Minimum wage and employment in monopsony model
+    *   How can we empirically distinguish these cases?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapters 10.1 and 10.2: Monopoly.
+
+\[Mastering\] Chapter 5: Differences-in-Differences.
+
+### Recommended Reading
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611350) Krugman, Paul. _Development, Geography, and Economic Theory_. MIT Press, 1997. ISBN: 9780262611350. \[Preview with [Google Books](http://books.google.com/books?id=Pm_oAg_1UxIC&pg=PAfrontcover)\]
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Testing theory: The fundamental problem of causal evidence**
+
+*   The fundamental problem of causal inference (FPCI)
+    *   The Rubin Causal Model (RCM)
+    *   Experiments and the RCM
+    *   Quasi-experiments in economics
+*   The method of Differences-in-Differences (DD)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Card, David, and Alan B. Krueger. "[Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania](http://www.jstor.org/stable/2118030)." _The American Economic Review_ 84, no. 4 (1994): 772–93.
+
+\[Mastering\] Chapter 1: Randomized Trials.
+
+Dugger, Celia W. "[Wage Laws Squeeze South Africa's Poor](http://www.nytimes.com/2010/09/27/world/africa/27safrica.html)." _The New York Times_, September 26, 2010.
+
+Dube, Arindrajit. "[The Minimum We Can Do](https://opinionator.blogs.nytimes.com/2013/11/30/the-minimum-we-can-do/)." _The New York Times_, November 30, 2013.
+
+Neumark, David. "Who Really Gets the Minimum Wage." _The Wall Street Journal_, July 6, 2014.
+
+### Recommended Reading
+
+Holland, Paul W. "[Statistics and Causal Inference](http://www.jstor.org/stable/2289064)." _Journal of the American Statistical Association_ 81, no. 396 (1986): 945–60.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Minimum wages and employment: Evidence**
+
+*   Card and Krueger
+
+*   Findings and interpretations
+
+*   Overview of 14.03 / 14.003: Substance and themes
+    *   What is economic theory for?
+    *   Causality: How do we know it, how we test it?
+    *   What do the data say?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] "Mathematical Appendix."
+
+[Math tools for 14.03 / 14.003 (PDF)]({{< baseurl >}}/resources/mit14_03f16_lec3mathtools)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II. The Foundation of Everything: Consumer Preference, Choice, Optimization, and Demand**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Introducing consumer theory: The foundation of microeconomics**
+
+*   The axioms of consumer theory
+*   Existence of a utility function
+*   Properties of utility functions
+*   Cardinality versus ordinality
+*   Monotone transformations
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapter 3: Preferences.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Consumer sovereignty: The Carte Blanche principle**
+
+*   Utility maximization and constrained optimization
+*   The indirect utility f'n
+*   Expenditure minimization and the expenditure function
+*   Relationship between expenditure and indirect utility f'ns
+*   Applications of consumer theory
+    *   Lump-sum vs. in-kind transfers
+    *   Prince changes and consumer surplus
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Waldfogel, Joel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Deadweight Loss of Christmas." (PDF)](http://blog.bearing-consulting.com/wp-content/uploads/2012/12/Waldfogel.-.Deadweight.Loss_.of_.Christmas.pdf) _The American Economic Review_ 83, no. 5 (1983): 1328–36.
+
+Thompson, Derek. "[If Economists Wrote Christmas Cards](https://www.theatlantic.com/business/archive/2013/12/if-economists-wrote-christmas-cards/282493/)." _The Atlantic_, December 2013, 1–4.
+
+### Recommended Reading
+
+Blattman, Chrisopther, Nathan Fiala, and Sebastian Martinez. "[Generating Skilled Self-Employment in Developing Countries: Experimental Evidence from Uganda](http://dx.doi.org/10.1093/qje/qjt057)." _The Quarterly Journal of Economics_ 129, no. 2 (2014): 697–752.
+
+Haushofer, Johannes, and Jeremy Shapiro. "[The Short-Term Impact of Unconditional Cash Transfers to the Poor: Experimental Evidence from Kenya](http://dx.doi.org/10.1093/qje/qjw025)." _The Quarterly Journal of Economics_ 131, no. 4 (2016): 1973–2042.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**From preferences to demand curves**
+
+*   Where demand curves come from
+*   Uncompensated ('Marshallian') demand
+*   Compensated ('Hicksian') demand
+*   Relationship between indirect utility f'n, expenditure f'n, and demand f'ns
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapter 4: Individual Demands.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Income effects, substitution effects, and the design of anti-poverty programs**
+
+*   Normal, Inferior, and Giffen goods
+*   The Supplemental Nutrition Assistance Program (SNAP, AKA 'Food Stamps'): Improving choices by constraining them?
+*   Incentivizing work: Labor supply and the Earned Income Tax Credit
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapter 5.1: Consumer Comparative Statics: Price and Income Consumption Curves.
+
+Williamson, Kevin D. "[The White Ghetto](http://www.nationalreview.com/article/367903/white-ghetto-kevin-d-williamson)." _National Review_, December 2013, 1–10.
+
+\*Eissa, Nada, and Jeffrey B. Liebman. "[Labor Supply Response to the Earned Income Tax Credit](https://doi.org/10.2307/2946689 )." _The Quarterly Journal of Economics_ 111, no. 2 (1996): 605–37.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Income, substitution, and subsistence**
+
+*   Connecting compensated and uncompensated demand curves: The Slutsky equation
+*   Testing the theory: Rice and noodle subsidies in China
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapter 5.3: Consumer Comparative Statics: Decomposing Price Effects.
+
+\*Jensen, Robert, and Nolan Miller. "[Giffen Behavior and Subsistence Consumption](https://www.aeaweb.org/articles?id=10.1257/aer.98.4.1553)." _American Economic Review_ 98, no. 4 (2008): 1553–77.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+No readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III. From Consumer Demand to Market Demand**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Applied competitive analysis: The U.S. sugar program**
+
+*   Aggregating individual to market demands
+*   Producer and consumer surplus in competitive equilibrium
+*   Distinguishing deadweight losses from transfers
+*   Application: The U.S. Sugar Program
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Scherer, Fredric M. "The U.S. Sugar Program." Harvard Kennedy School, Case 1128.0, 1992.
+
+Editorial. "[America's Sugar Daddies](http://www.nytimes.com/2003/11/29/opinion/america-s-sugar-daddies.html)." _The New York Times,_ November 29, 2003.
+
+Malkin, Elizabeth. "[In Mexico, Sugar vs. U.S. Corn Syrup](http://www.nytimes.com/2004/06/09/business/in-mexico-sugar-vs-us-corn-syrup.html?_r=0)." _The New York Times_, June 9, 2004.
+
+American Sugar Alliance. "[Trade Talks in Works Could Devastate U.S. Sugar Industry](http://www.sweetbeet.com/growernet/News_Events/Articles/Older%20Articles/2003/102103_a.htm)." October 21, 2003.
+
+Driessche, Ray Van. "Sugar is Not Expensive." _USA Today_, May 23, 2000.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Applied competitive analysis: The market for real estate brokers**
+
+Applied Competitive Analysis: A Second Application
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Hsieh, Chang-Tai, and Enrico Moretti. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Can Free Be Inefficient? Fixed Commissions and Social Waste in the Real Estate Industry." (PDF)](http://www.nber.org/papers/w9208.pdf) _Journal of Political Economy_ 111, no. 5 (2003): 1076–122. (NBER Working Paper no. 9208)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part IV. Putting Markets Together: General Equilibrium, Exchange, and International Trade**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Putting markets together: The Edgeworth box**
+
+*   General Equilibrium in a Pure Exchange Economy: The Edgeworth box
+    *   Contract curves
+    *   Gains from trade between consumers
+    *   The fundamental welfare theorems
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapter 6: Exchange Economies.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**The gains from market integration: "The Digital Provide"**
+
+The principle of arbitage
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Jensen, Robert. "[The Digital Provide: Information (Technology), Market Performance, and Welfare in the South Indian Fisheries Sector](https://academic.oup.com/qje/article-abstract/122/3/879/1879540/The-Digital-Provide-Information-Technology-Market?redirectedFrom=fulltext)." _The Quarterly Journal of Economics_ 122, no. 3 (2007): 879–924.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**International trade and comparative advantage**
+
+*   Why do countries gain from trade?
+*   The principle of comparative advantage
+*   Where does comparative advantage come from?
+*   Example: The RA problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Recommended Reading
+
+Krugman, Paul. "[The Accidental Theorist](http://www.slate.com/articles/business/the_dismal_science/1997/01/the_accidental_theorist.html)." _Slate_, January 1997.
+
+Kristof, Nicholas D. "[Let Them Sweat](http://www.nytimes.com/2002/06/25/opinion/let-them-sweat.html)." _The New York Times_, June 25, 2002. (Section A)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Does trade raise national income?**
+
+*   How do we even test this question?
+*   The method of Instrumental Variables (IV) \[also known as Two Stage Least Squares, 2SLS\]
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Mastering\] Chapter 3: Instrumental Variables.
+
+\*Feyrer, James. "[Trade and Income: Exploiting Time Series in Geography](http://www.nber.org/papers/w14910)." _NBER_ Working Paper No. 14910, 2009.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**The free trade dilemma**
+
+*   Why trade is not Pareto-improving
+*   Redistributive effects of trade: Evidence
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+Autor, David, David Dorn, and Gordon H. Hanson. "[The China Syndrome: Local Labor Market Effects of Import Competition in the United States](https://www.aeaweb.org/articles?id=10.1257/aer.103.6.2121)." _American Economic Review_ 103, no. 6 (2013): 2121–68.
+
+### Recommended Reading
+
+Autor, David. "[International Trade and U.S. Worker Welfare: Understanding the Costs and Benefits](http://equitablegrowth.org/labor-markets/international-trade-and-u-s-worker-welfare-understanding-the-costs-and-benefits/)." _Washington Center for Equitable Growth_, October 31, 2016.
+
+Autor, David, David Dorn, and Gordon H. Hanson. "[The China Shock: Learning from Labor-Market Adjustment to Large Changes in Trade](http://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080315-015041)." _Annual Review of Economics_ 8 (2016): 205–40.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part V. Markets Are Not Perfect: Externalities**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Externalities: Definition, consequences, and remedies**
+
+*   Guest lecture: Colin Gray or Christina Patterson, Graduate students at MIT’s Department of Economics
+*   Externalities: Definition, consequences, and remedies
+*   The problem of social cost: The Coase Theorem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapter 14: Externalities.
+
+Bergstrom, Theodore. "Lecture 5-Externalities." _UC Santa Barbara_, March 2002.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Internalizing externalities: Barbed wire fencing**
+
+Enforcement of property rights: The case of barbed wire fencing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Hornbeck, Richard. "[Barbed Wire: Property Rights and Agricultural Development](https://doi.org/10.1162/qjec.2010.125.2.767 )." _The Quarterly Journal of Economics_ 125, no. 2 (2010): 767–810.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Prediction is difficult, especially about the future: Choice under uncertainty**
+
+*   Risky bundles: Expected values, variance
+*   The Von Neuman Morgenstern Expected Utility Model
+*   Risk averse, risk neutral, and risk seeking preferences
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapters 11.1, 11.2, and 11.3: Expected Utility, Attitudes Towards Risk, Stochastic Dominance.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+No readings
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part VI. Choice Under Uncertainty: Risk Preference, the Value of Safety, and the Market for Risk**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Risk preference, the value of time, and the value of statistical life**
+
+Using revealed preference to estimate the implicit value of statistical life
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Ashenfelter, Orley, and Michael Greenstone. "[Using Mandated Speed Limits to Measure the Value of a Statistical Life](http://www.jstor.org/stable/10.1086/379932)." _Journal of Political Economy_ 112, no. S1 (2004): S226–7.
+
+Newman, Thomas P., Brian D. Johnston, and David C. Grossman. "[Effects and Costs of Requiring Child-Restraint Systems for Young Children Traveling on Commercial Airplanes](https://doi.org/doi:10.1001/archpedi.157.10.969)." _Archives of Pediatric Adolescent Medicine_ 157, no. 10 (2003): 969–74.
+
+### Recommended Reading
+
+Banzhaf, H. Spencer. "[Retrospectives: The Cold-War Origins of the Value of Statistical Life](https://www.aeaweb.org/articles?id=10.1257/jep.28.4.213)." _Journal of Economic Perspectives_ 28, no. 4 (2014): 213–26.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**There's a market for risk? How insurance works**
+
+*   Risk pooling
+*   Risk spreading
+*   Risk transfer
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Banerjee\] Chapter 11.4: Pareto Efficient Risk Sharing.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Moral hazard in the housing market: Subprime lending**
+
+*   The Regression Discontinuity method
+*   Application: Moral hazard, Securitization and Subprime Lending
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\[Mastering\] Chapter 4: Regression Discontinuity Designs.
+
+\*Keys, Benjamin J., Tanmoy Mukkerjee, et al. "[Did Securitization Lead to Lax Screening? Evidence from Subprime Loans](https://doi.org/10.1162/qjec.2010.125.1.307 )." _The Quarterly Journal of Economics_ 125, no. 1 (2010): 307–62.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part VII. Markets are Not Perfect: TMI or NEMI?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Imperfect information: Signaling in markets**
+
+*   Why is information different?
+*   Signaling in markets
+*   The notion of equilibrium in strategic interactions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+Spence, Michael. "[Job Market Signaling](http://www.jstor.org/stable/1882010)." _The Quarterly Journal of Economics_ 87, no. 3 (1973): 355–74.
+
+\[Banerjee\] Chapter 12 and Chapter 15: Game Theory (especially section 12.3 on Nash Equilibrium), Asymmetric Information.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Why do educated people earn more?
+
+*   Signaling vs. human capital
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Tyler, John H., Richard J. Murnane, and John B. Willett. "[Estimating the Labor Market Signaling Value of the GED](https://academic.oup.com/qje/article-abstract/115/2/431/1840448/Estimating-the-Labor-Market-Signaling-Value-of-the?redirectedFrom=fulltext)." _The Quarterly Journal of Economics_ 115, no. 2 (2000): 431–68.
+
+\[Mastering\] Chapter 6: The Wages of Schooling.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Mandating a pooling equilibrium: "Ban the Box" legislation**
+
+*   Statistical discrimination: Definition and logic
+*   Statistical discrimination and "Ban the Box"
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+\*Agan, Amanda, and Sonja Starr. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ban the Box, Criminal Records, and Statistical Discrimination: A Field Experiment." (PDF)](https://law.yale.edu/sites/default/files/area/workshop/leo/leo16_starr.pdf) _University of Michigan Law and Economics Research Paper_, August 24, 2016.
+
+### Recommended Reading
+
+Autor, David H., and David Scarborough. "[Does Job Testing Harm Minority Workers? Evidence from Retail Establishments](https://academic.oup.com/qje/article-lookup/doi/10.1162/qjec.2008.123.1.219)." _The Quarterly Journal of Economics_ 123, no. 1 (2008): 219-277.
+
+Doleac, Jennifer L., and Benjamin Hansen. "[Does 'Ban the Box' Help or Hurt Low-Skilled Workers? Statistical Discrimination and Employment Outcomes When Criminal Histories are Hidden](http://www.nber.org/papers/w22469)." _NBER_ Working Paper No. 22469, 2016.
+
+Bartik, Alexander W., and Scott Nelson. "[Credit Reports as Résumés: The Incidence of Pre-Employment Credit Screening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2759560)." _MIT Department of Economics Graduate Student Research Paper 16–01_, March 2016.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Adverse selection and the Lemons Problem**
+
+*   The Lemons problem
+*   Market failure in insurance markets: Theory, data, and evidence
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+Akerlof, George A. "[The Market for "Lemons": Quality Uncertainty and the Market Mechanism](http://www.jstor.org/stable/1879431)." _The Quarterly Journal of Economics_ 84, no. 3 (1970): 488–500.
+
+\*Einav, Liran, and Amy Finkelstein. "[Selection in Insurance Markets: Theory and Empirics in Pictures](https://doi.org/10.1257/jep.25.1.115)." _Journal of Economic Perspectives_ 25, no. 1 (2011): 115–38.
+
+Cutler, David, and Sarah Reber. "[Paying for Health Insurance: The Trade-Off between Competition and Adverse Selection](https://doi.org/10.1162/003355398555649)." _The Quarterly Journal of Economics_ 113, no. 2 (1998): 433–66.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+**Health insurance in practice: Why it works, why it matters**
+
+*   Adverse and advantageous selection
+*   Does health insurance affect health?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Required Reading
+
+Finkelstein, Amy, and Kathleen McGarry. "[Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market](https://www.aeaweb.org/articles?id=10.1257/aer.96.4.938)." _American Economic Review_ 96, no. 4 (2006): 938–58.
+
+\*Card, David E., Carlos Dobkin, et al. "[Does Medicare Save Lives?](https://academic.oup.com/qje/article/124/2/597/1905082/Does-Medicare-Save-Lives)" _The Quarterly Journal of Economics_ 124, no. 2 (2009): 597–636.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3 (during exam period)
+{{< tdclose >}}
+{{< tdopen >}}
+No readings
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

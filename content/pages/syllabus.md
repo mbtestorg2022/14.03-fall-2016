@@ -59,9 +59,54 @@ Grading
 
 The class is not graded on a curve per se. It's possible for everyone to do well, and I'd be happy to have a reason to assign mostly A's. That said, if you make minimal effort, you will probably receive a C or worse. If I think you are headed for a D or F, I will try to warn you before drop date.
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Best five out of six problem set grades | 30% |
-| Three exams | 60% |
-| Best five of six in-class quizzes | 5% |
-| Class participation | 5%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Best five out of six problem set grades
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three exams
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Best five of six in-class quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
