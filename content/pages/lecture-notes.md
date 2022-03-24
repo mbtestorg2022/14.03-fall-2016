@@ -306,7 +306,7 @@ Education, human capital, and labor market signaling
 Signaling and statistical discrimination: An application to "Ban the Box" legislation
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 21 Notes (PDF)]({{< baseurl >}}/resources/mit14_03f16_lec21)
+[Lecture 21 Notes (PDF)]({{< baseurl >}}/resources/mit14_03f16_lec21)
 {{< tdclose >}}
 
 {{< trclose >}}

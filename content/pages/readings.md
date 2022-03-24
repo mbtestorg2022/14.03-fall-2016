@@ -197,7 +197,7 @@ Holland, Paul W. "[Statistics and Causal Inference](http://www.jstor.org/stable/
 
 ### Required Reading
 
-\*Waldfogel, Joel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Deadweight Loss of Christmas." (PDF)](http://blog.bearing-consulting.com/wp-content/uploads/2012/12/Waldfogel.-.Deadweight.Loss_.of_.Christmas.pdf) _The American Economic Review_ 83, no. 5 (1983): 1328–36.
+\*Waldfogel, Joel. ["The Deadweight Loss of Christmas." (PDF)](http://blog.bearing-consulting.com/wp-content/uploads/2012/12/Waldfogel.-.Deadweight.Loss_.of_.Christmas.pdf) _The American Economic Review_ 83, no. 5 (1983): 1328–36.
 
 Thompson, Derek. "[If Economists Wrote Christmas Cards](https://www.theatlantic.com/business/archive/2013/12/if-economists-wrote-christmas-cards/282493/)." _The Atlantic_, December 2013, 1–4.
 
@@ -366,7 +366,7 @@ Applied Competitive Analysis: A Second Application
 
 ### Required Reading
 
-\*Hsieh, Chang-Tai, and Enrico Moretti. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Can Free Be Inefficient? Fixed Commissions and Social Waste in the Real Estate Industry." (PDF)](http://www.nber.org/papers/w9208.pdf) _Journal of Political Economy_ 111, no. 5 (2003): 1076–122. (NBER Working Paper no. 9208)
+\*Hsieh, Chang-Tai, and Enrico Moretti. ["Can Free Be Inefficient? Fixed Commissions and Social Waste in the Real Estate Industry." (PDF)](http://www.nber.org/papers/w9208.pdf) _Journal of Political Economy_ 111, no. 5 (2003): 1076–122. (NBER Working Paper no. 9208)
 
 
 {{< tdclose >}}
@@ -780,7 +780,7 @@ Why do educated people earn more?
 
 ### Required Reading
 
-\*Agan, Amanda, and Sonja Starr. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ban the Box, Criminal Records, and Statistical Discrimination: A Field Experiment." (PDF)](https://law.yale.edu/sites/default/files/area/workshop/leo/leo16_starr.pdf) _University of Michigan Law and Economics Research Paper_, August 24, 2016.
+\*Agan, Amanda, and Sonja Starr. ["Ban the Box, Criminal Records, and Statistical Discrimination: A Field Experiment." (PDF)](https://law.yale.edu/sites/default/files/area/workshop/leo/leo16_starr.pdf) _University of Michigan Law and Economics Research Paper_, August 24, 2016.
 
 ### Recommended Reading
 
