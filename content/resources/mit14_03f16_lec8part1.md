@@ -4,6 +4,7 @@ description: This file contains information regarding applying consumer theory t
   competitive markets-the United States sugar program.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/f804a92517d12e1e354415d76191c768_MIT14_03F16_lec8Part1.pdf
 file_type: application/pdf
+parent_uid: f27a70b4-7bee-6919-9421-d31f0705bfa3
 resourcetype: Document
 title: 14.03/14.003 Fall 2016 Lecture 8 Part 1 Notes
 uid: f804a925-17d1-2e1e-3544-15d76191c768

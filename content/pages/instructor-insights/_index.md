@@ -28,7 +28,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011/) or permission of instructor.
+[_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011) or permission of instructor.
 
 ### Requirements Satisfied
 

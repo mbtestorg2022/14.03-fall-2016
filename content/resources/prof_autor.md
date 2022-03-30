@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6cc29a02-786f-cd02-3c7e-721b29770e51
 resourcetype: Image
 title: Prof_Autor.jpg
 uid: 4c60c95b-c48b-25ae-af7b-5550b332877d

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6cc29a02-786f-cd02-3c7e-721b29770e51
 resourcetype: Image
 title: classroom-14-03-comp.jpg
 uid: 279784c6-f091-ea19-c669-f7bd3193f104
